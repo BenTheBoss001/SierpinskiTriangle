@@ -1,7 +1,7 @@
 public void setup(){
   size(800,800);
   background(50);
-  sTriangle(100,700,600, 75);
+  sierpinski(100,700,600, 75);
 }
 
 public void draw(){
